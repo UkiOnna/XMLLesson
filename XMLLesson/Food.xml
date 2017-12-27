@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<food>
+  <fish>
+    <sort>Ford Mustang</sort>
+    <madeDate>12.10.1983</madeDate>
+    <rating>5</rating>
+  </fish>
+
+  <meat>
+    <sort>Ford Mustang2</sort>
+    <madeDate>2.10.1983</madeDate>
+    <rating>4</rating>
+  </meat>
+
+  <juice>
+    <sort>Ford Mustang3</sort>
+    <madeDate>3.10.1983</madeDate>
+    <rating>3</rating>
+  </juice>
+
+
+</food>

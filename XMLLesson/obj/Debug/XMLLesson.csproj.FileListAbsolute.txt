@@ -1,0 +1,8 @@
+c:\users\сикировт\documents\visual studio 2017\Projects\XMLLesson\XMLLesson\bin\Debug\Cars.xml
+c:\users\сикировт\documents\visual studio 2017\Projects\XMLLesson\XMLLesson\bin\Debug\XMLLesson.exe.config
+c:\users\сикировт\documents\visual studio 2017\Projects\XMLLesson\XMLLesson\bin\Debug\XMLLesson.exe
+c:\users\сикировт\documents\visual studio 2017\Projects\XMLLesson\XMLLesson\bin\Debug\XMLLesson.pdb
+c:\users\сикировт\documents\visual studio 2017\Projects\XMLLesson\XMLLesson\obj\Debug\XMLLesson.csprojResolveAssemblyReference.cache
+c:\users\сикировт\documents\visual studio 2017\Projects\XMLLesson\XMLLesson\obj\Debug\XMLLesson.exe
+c:\users\сикировт\documents\visual studio 2017\Projects\XMLLesson\XMLLesson\obj\Debug\XMLLesson.pdb
+c:\users\сикировт\documents\visual studio 2017\Projects\XMLLesson\XMLLesson\bin\Debug\Food.xml

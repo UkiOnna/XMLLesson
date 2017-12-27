@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cars>
+<car>
+  <id type ="Guid">11167045-2fb3-4199-a1fa-bbf5c41d45bc</id>
+  <mark>Ford Mustang</mark>
+  <madeDate>12.10.1983</madeDate>
+  <rating>5</rating>
+</car>
+  
+  <car>
+  <id type ="Guid">22267045-2fb3-4199-a1fa-bbf5c41d45bc</id>
+  <mark>Ford Mustang2</mark>
+  <madeDate>2.10.1983</madeDate>
+  <rating>4</rating>
+</car>
+  
+<car>
+  <id type ="Guid">33367045-2fb3-4199-a1fa-bbf5c41d45bc</id>
+  <mark>Ford Mustang3</mark>
+  <madeDate>3.10.1983</madeDate>
+  <rating>3</rating>
+</car>
+
+
+  </cars>
+
